@@ -1,0 +1,21 @@
+{
+    "total_documents": 10,
+    "average_length": 4731.1,
+    "min_length": 2638,
+    "first_quartile": 4342.0,
+    "median_length": 5028.5,
+    "third_quartile": 5332.25,
+    "max_length": 5995,
+    "text_lengths": [
+        5341,
+        2638,
+        5306,
+        5995,
+        5242,
+        4338,
+        3351,
+        4815,
+        4354,
+        5931
+    ]
+}

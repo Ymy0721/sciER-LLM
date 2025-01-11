@@ -1,0 +1,11 @@
+{
+    "entity_counts": {
+        "Operation": 1249,
+        "Effect": 1420
+    },
+    "relation_counts": {
+        "Other": 273,
+        "Positive": 1004,
+        "Negative": 112
+    }
+}

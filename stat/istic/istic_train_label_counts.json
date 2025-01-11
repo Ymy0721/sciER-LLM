@@ -1,0 +1,17 @@
+{
+    "entity_counts": {
+        "Evaluation-Metric": 5073,
+        "Method": 12713,
+        "Task": 3909,
+        "Material": 1582
+    },
+    "relation_counts": {
+        "evaluate-for": 6787,
+        "used-for": 5459,
+        "Equal": 1605,
+        "part-of": 5144,
+        "compare": 1848,
+        "conjunction": 331,
+        "feature-of": 4
+    }
+}

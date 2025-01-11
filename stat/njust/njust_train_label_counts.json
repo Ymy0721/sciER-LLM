@@ -1,0 +1,9 @@
+{
+    "entity_counts": {
+        "Method": 2087,
+        "Dataset": 676,
+        "Metric": 731,
+        "Tool": 147
+    },
+    "relation_counts": {}
+}
