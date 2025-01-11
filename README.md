@@ -69,7 +69,7 @@ python train2alpaca.py
 
 通过讯飞星辰MaaS平台进行模型创建、训练和推理，前往平台地址：[https://training.xfyun.cn/modelSquare](https://training.xfyun.cn/modelSquare)。以下是各数据集的模型参数：
 
-| 数据集 | 模型 | learning_rate | epoch | max_length | lora作用模块 | lora_dropout | lora_alpha | Lora是否和合并 |
+| 数据集 | 模型 | learning_rate | epoch | max_length | lora作用模块 | lora_dropout | lora_alpha | Lora是否合并 |
 | ------ | ---- | ------------- | ----- | ---------- | ------------ | ------------ | ---------- | -------------- |
 | istic  | Gemma2-9b-it | 8e-5 | 5 | 2048 | all | 0.1 | 32 | 关 |
 | njust  | Gemma2-9b-it | 3e-5 | 5 | 2048 | all | 0.1 | 32 | 关 |
