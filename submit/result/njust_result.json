@@ -7,7 +7,7 @@
                 {
                     "value": {
                         "start": 302,
-                        "end": 305,
+                        "end": 304,
                         "text": "SQG",
                         "labels": [
                             "Method"
@@ -18,7 +18,7 @@
                 {
                     "value": {
                         "start": 4994,
-                        "end": 4998,
+                        "end": 4997,
                         "text": "CoQA",
                         "labels": [
                             "Dataset"
@@ -29,7 +29,7 @@
                 {
                     "value": {
                         "start": 5631,
-                        "end": 5654,
+                        "end": 5653,
                         "text": "semi-autoregressive SQG",
                         "labels": [
                             "Method"
@@ -40,7 +40,7 @@
                 {
                     "value": {
                         "start": 6572,
-                        "end": 6579,
+                        "end": 6578,
                         "text": "Seq2seq",
                         "labels": [
                             "Method"
@@ -51,7 +51,7 @@
                 {
                     "value": {
                         "start": 6760,
-                        "end": 6777,
+                        "end": 6776,
                         "text": "pointer mechanism",
                         "labels": [
                             "Method"
@@ -62,7 +62,7 @@
                 {
                     "value": {
                         "start": 6804,
-                        "end": 6818,
+                        "end": 6817,
                         "text": "self-attention",
                         "labels": [
                             "Method"
@@ -73,7 +73,7 @@
                 {
                     "value": {
                         "start": 6925,
-                        "end": 6938,
+                        "end": 6937,
                         "text": "Seq2seq model",
                         "labels": [
                             "Method"
@@ -84,7 +84,7 @@
                 {
                     "value": {
                         "start": 145,
-                        "end": 148,
+                        "end": 147,
                         "text": "TQG",
                         "labels": [
                             "Method"
@@ -95,7 +95,7 @@
                 {
                     "value": {
                         "start": 146,
-                        "end": 148,
+                        "end": 147,
                         "text": "QG",
                         "labels": [
                             "Method"
@@ -106,7 +106,7 @@
                 {
                     "value": {
                         "start": 1732,
-                        "end": 1734,
+                        "end": 1733,
                         "text": "QA",
                         "labels": [
                             "Method"
@@ -117,7 +117,7 @@
                 {
                     "value": {
                         "start": 8282,
-                        "end": 8291,
+                        "end": 8290,
                         "text": "SQG model",
                         "labels": [
                             "Method"
@@ -128,7 +128,7 @@
                 {
                     "value": {
                         "start": 1035,
-                        "end": 1067,
+                        "end": 1066,
                         "text": "answer-aware attention mechanism",
                         "labels": [
                             "Method"
@@ -139,7 +139,7 @@
                 {
                     "value": {
                         "start": 8692,
-                        "end": 8697,
+                        "end": 8696,
                         "text": "SQuAD",
                         "labels": [
                             "Dataset"
@@ -150,7 +150,7 @@
                 {
                     "value": {
                         "start": 8729,
-                        "end": 8735,
+                        "end": 8734,
                         "text": "NewsQA",
                         "labels": [
                             "Dataset"
@@ -161,7 +161,7 @@
                 {
                     "value": {
                         "start": 8971,
-                        "end": 8975,
+                        "end": 8974,
                         "text": "QuAC",
                         "labels": [
                             "Dataset"
@@ -172,7 +172,7 @@
                 {
                     "value": {
                         "start": 9039,
-                        "end": 9049,
+                        "end": 9048,
                         "text": "SQG models",
                         "labels": [
                             "Method"
@@ -183,7 +183,7 @@
                 {
                     "value": {
                         "start": 9060,
-                        "end": 9072,
+                        "end": 9071,
                         "text": "CoQA dataset",
                         "labels": [
                             "Dataset"
@@ -194,7 +194,7 @@
                 {
                     "value": {
                         "start": 8283,
-                        "end": 8291,
+                        "end": 8290,
                         "text": "QG model",
                         "labels": [
                             "Method"
@@ -205,7 +205,7 @@
                 {
                     "value": {
                         "start": 10972,
-                        "end": 10977,
+                        "end": 10976,
                         "text": "kappa",
                         "labels": [
                             "Metric"
@@ -216,7 +216,7 @@
                 {
                     "value": {
                         "start": 11713,
-                        "end": 11721,
+                        "end": 11720,
                         "text": "accuracy",
                         "labels": [
                             "Metric"
@@ -227,7 +227,7 @@
                 {
                     "value": {
                         "start": 12342,
-                        "end": 12366,
+                        "end": 12365,
                         "text": "Transformer architecture",
                         "labels": [
                             "Method"
@@ -238,7 +238,7 @@
                 {
                     "value": {
                         "start": 14525,
-                        "end": 14544,
+                        "end": 14543,
                         "text": "Transformer-encoder",
                         "labels": [
                             "Method"
@@ -249,7 +249,7 @@
                 {
                     "value": {
                         "start": 16636,
-                        "end": 16662,
+                        "end": 16661,
                         "text": "bi-directional GRU network",
                         "labels": [
                             "Method"
@@ -260,7 +260,7 @@
                 {
                     "value": {
                         "start": 20670,
-                        "end": 20689,
+                        "end": 20688,
                         "text": "Transformer-decoder",
                         "labels": [
                             "Method"
@@ -271,7 +271,7 @@
                 {
                     "value": {
                         "start": 21409,
-                        "end": 21433,
+                        "end": 21432,
                         "text": "multi-head selfattention",
                         "labels": [
                             "Method"
@@ -282,7 +282,7 @@
                 {
                     "value": {
                         "start": 20750,
-                        "end": 20778,
+                        "end": 20777,
                         "text": "multi-head encoder-attention",
                         "labels": [
                             "Method"
@@ -293,7 +293,7 @@
                 {
                     "value": {
                         "start": 22310,
-                        "end": 22317,
+                        "end": 22316,
                         "text": "CoreNQG",
                         "labels": [
                             "Method"
@@ -304,7 +304,7 @@
                 {
                     "value": {
                         "start": 22347,
-                        "end": 22355,
+                        "end": 22354,
                         "text": "CorefNet",
                         "labels": [
                             "Dataset"
@@ -315,7 +315,7 @@
                 {
                     "value": {
                         "start": 6544,
-                        "end": 6555,
+                        "end": 6554,
                         "text": "NN-based QG",
                         "labels": [
                             "Method"
@@ -326,7 +326,7 @@
                 {
                     "value": {
                         "start": 22784,
-                        "end": 22791,
+                        "end": 22790,
                         "text": "CopyNet",
                         "labels": [
                             "Method"
@@ -337,7 +337,7 @@
                 {
                     "value": {
                         "start": 22990,
-                        "end": 23004,
+                        "end": 23003,
                         "text": "copy mechanism",
                         "labels": [
                             "Method"
@@ -348,7 +348,7 @@
                 {
                     "value": {
                         "start": 23157,
-                        "end": 23224,
+                        "end": 23223,
                         "text": "latent variable hierarchical recurrent encoder-decoder architecture",
                         "labels": [
                             "Method"
@@ -359,7 +359,7 @@
                 {
                     "value": {
                         "start": 23225,
-                        "end": 23230,
+                        "end": 23229,
                         "text": "VHRED",
                         "labels": [
                             "Method"
@@ -370,7 +370,7 @@
                 {
                     "value": {
                         "start": 23267,
-                        "end": 23312,
+                        "end": 23311,
                         "text": "hierarchical recurrent attention architecture",
                         "labels": [
                             "Method"
@@ -381,7 +381,7 @@
                 {
                     "value": {
                         "start": 23313,
-                        "end": 23317,
+                        "end": 23316,
                         "text": "HRAN",
                         "labels": [
                             "Method"
@@ -392,7 +392,7 @@
                 {
                     "value": {
                         "start": 23430,
-                        "end": 23440,
+                        "end": 23439,
                         "text": "ReDR model",
                         "labels": [
                             "Method"
@@ -403,7 +403,7 @@
                 {
                     "value": {
                         "start": 23513,
-                        "end": 23527,
+                        "end": 23526,
                         "text": "CorefNet model",
                         "labels": [
                             "Method"
@@ -414,7 +414,7 @@
                 {
                     "value": {
                         "start": 23541,
-                        "end": 23546,
+                        "end": 23545,
                         "text": "CFNet",
                         "labels": [
                             "Method"
@@ -425,7 +425,7 @@
                 {
                     "value": {
                         "start": 24150,
-                        "end": 24154,
+                        "end": 24153,
                         "text": "BLEU",
                         "labels": [
                             "Metric"
@@ -436,7 +436,7 @@
                 {
                     "value": {
                         "start": 24185,
-                        "end": 24192,
+                        "end": 24191,
                         "text": "ROUGE-L",
                         "labels": [
                             "Metric"
@@ -447,7 +447,7 @@
                 {
                     "value": {
                         "start": 24212,
-                        "end": 24218,
+                        "end": 24217,
                         "text": "METEOR",
                         "labels": [
                             "Metric"
@@ -458,7 +458,7 @@
                 {
                     "value": {
                         "start": 24372,
-                        "end": 24397,
+                        "end": 24396,
                         "text": "semi-autoregressive model",
                         "labels": [
                             "Method"
@@ -469,7 +469,7 @@
                 {
                     "value": {
                         "start": 22697,
-                        "end": 22707,
+                        "end": 22706,
                         "text": "TQG models",
                         "labels": [
                             "Method"
@@ -480,7 +480,7 @@
                 {
                     "value": {
                         "start": 23430,
-                        "end": 23434,
+                        "end": 23433,
                         "text": "ReDR",
                         "labels": [
                             "Method"
@@ -491,7 +491,7 @@
                 {
                     "value": {
                         "start": 25902,
-                        "end": 25908,
+                        "end": 25907,
                         "text": "n-gram",
                         "labels": [
                             "Method"
@@ -502,7 +502,7 @@
                 {
                     "value": {
                         "start": 26044,
-                        "end": 26049,
+                        "end": 26048,
                         "text": "BLEU4",
                         "labels": [
                             "Metric"
@@ -513,7 +513,7 @@
                 {
                     "value": {
                         "start": 27263,
-                        "end": 27270,
+                        "end": 27269,
                         "text": "fluency",
                         "labels": [
                             "Metric"
@@ -524,7 +524,7 @@
                 {
                     "value": {
                         "start": 27385,
-                        "end": 27394,
+                        "end": 27393,
                         "text": "coherence",
                         "labels": [
                             "Metric"
@@ -535,7 +535,7 @@
                 {
                     "value": {
                         "start": 25810,
-                        "end": 25821,
+                        "end": 25820,
                         "text": "SQG dataset",
                         "labels": [
                             "Dataset"
@@ -546,7 +546,7 @@
                 {
                     "value": {
                         "start": 28130,
-                        "end": 28141,
+                        "end": 28140,
                         "text": "TQG dataset",
                         "labels": [
                             "Dataset"
@@ -557,7 +557,7 @@
                 {
                     "value": {
                         "start": 28475,
-                        "end": 28490,
+                        "end": 28489,
                         "text": "uni-graph model",
                         "labels": [
                             "Method"
@@ -568,7 +568,7 @@
                 {
                     "value": {
                         "start": 28687,
-                        "end": 28702,
+                        "end": 28701,
                         "text": "uni-heads model",
                         "labels": [
                             "Method"
@@ -579,7 +579,7 @@
                 {
                     "value": {
                         "start": 28725,
-                        "end": 28741,
+                        "end": 28740,
                         "text": "no co2fine model",
                         "labels": [
                             "Method"
@@ -590,7 +590,7 @@
                 {
                     "value": {
                         "start": 28812,
-                        "end": 28826,
+                        "end": 28825,
                         "text": "non-auto model",
                         "labels": [
                             "Method"
@@ -601,7 +601,7 @@
                 {
                     "value": {
                         "start": 8262,
-                        "end": 8291,
+                        "end": 8290,
                         "text": "semi-autoregressive SQG model",
                         "labels": [
                             "Method"
@@ -620,7 +620,7 @@
                 {
                     "value": {
                         "start": 4513,
-                        "end": 4516,
+                        "end": 4515,
                         "text": "GPT",
                         "labels": [
                             "Method"
@@ -631,7 +631,7 @@
                 {
                     "value": {
                         "start": 4519,
-                        "end": 4526,
+                        "end": 4525,
                         "text": "GPT - 2",
                         "labels": [
                             "Method"
@@ -642,7 +642,7 @@
                 {
                     "value": {
                         "start": 4563,
-                        "end": 4567,
+                        "end": 4566,
                         "text": "CTRL",
                         "labels": [
                             "Method"
@@ -653,7 +653,7 @@
                 {
                     "value": {
                         "start": 4598,
-                        "end": 4604,
+                        "end": 4603,
                         "text": "Grover",
                         "labels": [
                             "Method"
@@ -664,7 +664,7 @@
                 {
                     "value": {
                         "start": 4743,
-                        "end": 4765,
+                        "end": 4764,
                         "text": "auto-regressive models",
                         "labels": [
                             "Method"
@@ -675,7 +675,7 @@
                 {
                     "value": {
                         "start": 5084,
-                        "end": 5088,
+                        "end": 5087,
                         "text": "GLTR",
                         "labels": [
                             "Tool"
@@ -686,7 +686,7 @@
                 {
                     "value": {
                         "start": 5227,
-                        "end": 5246,
+                        "end": 5245,
                         "text": "energy-based models",
                         "labels": [
                             "Method"
@@ -697,7 +697,7 @@
                 {
                     "value": {
                         "start": 8620,
-                        "end": 8634,
+                        "end": 8633,
                         "text": "self-attention",
                         "labels": [
                             "Method"
@@ -708,7 +708,7 @@
                 {
                     "value": {
                         "start": 8899,
-                        "end": 8902,
+                        "end": 8901,
                         "text": "BoW",
                         "labels": [
                             "Method"
@@ -719,7 +719,7 @@
                 {
                     "value": {
                         "start": 8925,
-                        "end": 8945,
+                        "end": 8944,
                         "text": "bag-of-words ( BoW )",
                         "labels": [
                             "Method"
@@ -730,7 +730,7 @@
                 {
                     "value": {
                         "start": 8905,
-                        "end": 8911,
+                        "end": 8910,
                         "text": "Linear",
                         "labels": [
                             "Method"
@@ -741,7 +741,7 @@
                 {
                     "value": {
                         "start": 9091,
-                        "end": 9102,
+                        "end": 9101,
                         "text": "BoW ( MLP )",
                         "labels": [
                             "Method"
@@ -752,7 +752,7 @@
                 {
                     "value": {
                         "start": 9097,
-                        "end": 9100,
+                        "end": 9099,
                         "text": "MLP",
                         "labels": [
                             "Method"
@@ -763,7 +763,7 @@
                 {
                     "value": {
                         "start": 9280,
-                        "end": 9287,
+                        "end": 9286,
                         "text": "ConvNet",
                         "labels": [
                             "Method"
@@ -774,7 +774,7 @@
                 {
                     "value": {
                         "start": 9473,
-                        "end": 9477,
+                        "end": 9476,
                         "text": "LSTM",
                         "labels": [
                             "Method"
@@ -785,7 +785,7 @@
                 {
                     "value": {
                         "start": 9495,
-                        "end": 9504,
+                        "end": 9503,
                         "text": "CNN model",
                         "labels": [
                             "Method"
@@ -796,7 +796,7 @@
                 {
                     "value": {
                         "start": 9624,
-                        "end": 9635,
+                        "end": 9634,
                         "text": "Transformer",
                         "labels": [
                             "Method"
@@ -807,7 +807,7 @@
                 {
                     "value": {
                         "start": 9732,
-                        "end": 9757,
+                        "end": 9756,
                         "text": "multi-head self-attention",
                         "labels": [
                             "Method"
@@ -818,7 +818,7 @@
                 {
                     "value": {
                         "start": 9872,
-                        "end": 9899,
+                        "end": 9898,
                         "text": "CNN / Dailymail news corpus",
                         "labels": [
                             "Dataset"
@@ -829,7 +829,7 @@
                 {
                     "value": {
                         "start": 10023,
-                        "end": 10045,
+                        "end": 10044,
                         "text": "CNN / Dailymail corpus",
                         "labels": [
                             "Dataset"
@@ -840,7 +840,7 @@
                 {
                     "value": {
                         "start": 11023,
-                        "end": 11031,
+                        "end": 11030,
                         "text": "accuracy",
                         "labels": [
                             "Metric"
@@ -851,7 +851,7 @@
                 {
                     "value": {
                         "start": 13287,
-                        "end": 13307,
+                        "end": 13306,
                         "text": "BoW ( bag of words )",
                         "labels": [
                             "Method"
@@ -862,7 +862,7 @@
                 {
                     "value": {
                         "start": 13568,
-                        "end": 13580,
+                        "end": 13579,
                         "text": "Transformers",
                         "labels": [
                             "Method"
@@ -881,7 +881,7 @@
                 {
                     "value": {
                         "start": 620,
-                        "end": 643,
+                        "end": 642,
                         "text": "MDLbased tree cut model",
                         "labels": [
                             "Method"
@@ -892,7 +892,7 @@
                 {
                     "value": {
                         "start": 873,
-                        "end": 899,
+                        "end": 898,
                         "text": "Vector Space Model ( VSM )",
                         "labels": [
                             "Method"
@@ -903,7 +903,7 @@
                 {
                     "value": {
                         "start": 904,
-                        "end": 953,
+                        "end": 952,
                         "text": "Language Model for Information Retrieval ( LMIR )",
                         "labels": [
                             "Method"
@@ -914,7 +914,7 @@
                 {
                     "value": {
                         "start": 2085,
-                        "end": 2103,
+                        "end": 2102,
                         "text": "vector space model",
                         "labels": [
                             "Method"
@@ -925,7 +925,7 @@
                 {
                     "value": {
                         "start": 2106,
-                        "end": 2111,
+                        "end": 2110,
                         "text": "Okapi",
                         "labels": [
                             "Method"
@@ -936,7 +936,7 @@
                 {
                     "value": {
                         "start": 552,
-                        "end": 566,
+                        "end": 565,
                         "text": "language model",
                         "labels": [
                             "Method"
@@ -947,7 +947,7 @@
                 {
                     "value": {
                         "start": 2135,
-                        "end": 2158,
+                        "end": 2157,
                         "text": "translation-based model",
                         "labels": [
                             "Method"
@@ -958,7 +958,7 @@
                 {
                     "value": {
                         "start": 26470,
-                        "end": 26494,
+                        "end": 26493,
                         "text": "community-based Q&A data",
                         "labels": [
                             "Dataset"
@@ -969,7 +969,7 @@
                 {
                     "value": {
                         "start": 26651,
-                        "end": 26672,
+                        "end": 26671,
                         "text": "language model ( LM )",
                         "labels": [
                             "Method"
@@ -980,7 +980,7 @@
                 {
                     "value": {
                         "start": 3734,
-                        "end": 3789,
+                        "end": 3788,
                         "text": "MDL-based ( Minimum Description Length ) tree cut model",
                         "labels": [
                             "Method"
@@ -991,7 +991,7 @@
                 {
                     "value": {
                         "start": 894,
-                        "end": 897,
+                        "end": 896,
                         "text": "VSM",
                         "labels": [
                             "Method"
@@ -1002,7 +1002,7 @@
                 {
                     "value": {
                         "start": 947,
-                        "end": 951,
+                        "end": 950,
                         "text": "LMIR",
                         "labels": [
                             "Method"
@@ -1013,7 +1013,7 @@
                 {
                     "value": {
                         "start": 5856,
-                        "end": 5880,
+                        "end": 5879,
                         "text": "MDL-based tree cut model",
                         "labels": [
                             "Method"
@@ -1024,7 +1024,7 @@
                 {
                     "value": {
                         "start": 629,
-                        "end": 643,
+                        "end": 642,
                         "text": "tree cut model",
                         "labels": [
                             "Method"
@@ -1035,7 +1035,7 @@
                 {
                     "value": {
                         "start": 629,
-                        "end": 637,
+                        "end": 636,
                         "text": "tree cut",
                         "labels": [
                             "Method"
@@ -1046,7 +1046,7 @@
                 {
                     "value": {
                         "start": 6968,
-                        "end": 6971,
+                        "end": 6970,
                         "text": "MLE",
                         "labels": [
                             "Method"
@@ -1057,7 +1057,7 @@
                 {
                     "value": {
                         "start": 9535,
-                        "end": 9547,
+                        "end": 9546,
                         "text": "bag-of-words",
                         "labels": [
                             "Method"
@@ -1068,7 +1068,7 @@
                 {
                     "value": {
                         "start": 9830,
-                        "end": 9838,
+                        "end": 9837,
                         "text": "WH-ngram",
                         "labels": [
                             "Method"
@@ -1079,7 +1079,7 @@
                 {
                     "value": {
                         "start": 9833,
-                        "end": 9838,
+                        "end": 9837,
                         "text": "ngram",
                         "labels": [
                             "Method"
@@ -1090,7 +1090,7 @@
                 {
                     "value": {
                         "start": 15170,
-                        "end": 15188,
+                        "end": 15187,
                         "text": "multinomial models",
                         "labels": [
                             "Method"
@@ -1101,7 +1101,7 @@
                 {
                     "value": {
                         "start": 15246,
-                        "end": 15278,
+                        "end": 15277,
                         "text": "unigram document language models",
                         "labels": [
                             "Method"
@@ -1112,7 +1112,7 @@
                 {
                     "value": {
                         "start": 15549,
-                        "end": 15563,
+                        "end": 15562,
                         "text": "MLE estimators",
                         "labels": [
                             "Method"
@@ -1123,7 +1123,7 @@
                 {
                     "value": {
                         "start": 16574,
-                        "end": 16581,
+                        "end": 16580,
                         "text": "TRL-TST",
                         "labels": [
                             "Dataset"
@@ -1134,7 +1134,7 @@
                 {
                     "value": {
                         "start": 16634,
-                        "end": 16640,
+                        "end": 16639,
                         "text": "CI-TST",
                         "labels": [
                             "Dataset"
@@ -1145,7 +1145,7 @@
                 {
                     "value": {
                         "start": 17732,
-                        "end": 17791,
+                        "end": 17790,
                         "text": "LMIR ( language modeling method for information retrieval )",
                         "labels": [
                             "Method"
@@ -1156,7 +1156,7 @@
                 {
                     "value": {
                         "start": 17916,
-                        "end": 17919,
+                        "end": 17918,
                         "text": "MAP",
                         "labels": [
                             "Metric"
@@ -1167,7 +1167,7 @@
                 {
                     "value": {
                         "start": 17922,
-                        "end": 17933,
+                        "end": 17932,
                         "text": "R-precision",
                         "labels": [
                             "Metric"
@@ -1178,7 +1178,7 @@
                 {
                     "value": {
                         "start": 17940,
-                        "end": 17943,
+                        "end": 17942,
                         "text": "MRR",
                         "labels": [
                             "Metric"
@@ -1189,7 +1189,7 @@
                 {
                     "value": {
                         "start": 4675,
-                        "end": 4690,
+                        "end": 4689,
                         "text": "Yahoo ! Answers",
                         "labels": [
                             "Dataset"
@@ -1200,7 +1200,7 @@
                 {
                     "value": {
                         "start": 18748,
-                        "end": 18771,
+                        "end": 18770,
                         "text": "5-fold cross-validation",
                         "labels": [
                             "Method"
@@ -1211,7 +1211,7 @@
                 {
                     "value": {
                         "start": 19069,
-                        "end": 19076,
+                        "end": 19075,
                         "text": "LMIRCUT",
                         "labels": [
                             "Method"
@@ -1222,7 +1222,7 @@
                 {
                     "value": {
                         "start": 21156,
-                        "end": 21164,
+                        "end": 21163,
                         "text": "LMIR-CUT",
                         "labels": [
                             "Method"
@@ -1233,7 +1233,7 @@
                 {
                     "value": {
                         "start": 21537,
-                        "end": 21541,
+                        "end": 21540,
                         "text": "PVSM",
                         "labels": [
                             "Method"
@@ -1244,7 +1244,7 @@
                 {
                     "value": {
                         "start": 19369,
-                        "end": 19375,
+                        "end": 19374,
                         "text": "t-test",
                         "labels": [
                             "Method"
@@ -1255,7 +1255,7 @@
                 {
                     "value": {
                         "start": 14736,
-                        "end": 14749,
+                        "end": 14748,
                         "text": "mixture model",
                         "labels": [
                             "Method"
@@ -1266,7 +1266,7 @@
                 {
                     "value": {
                         "start": 24698,
-                        "end": 24709,
+                        "end": 24708,
                         "text": "IBM model 1",
                         "labels": [
                             "Method"
@@ -1277,7 +1277,7 @@
                 {
                     "value": {
                         "start": 25043,
-                        "end": 25050,
+                        "end": 25049,
                         "text": "SMT-CUT",
                         "labels": [
                             "Method"
@@ -1288,7 +1288,7 @@
                 {
                     "value": {
                         "start": 25651,
-                        "end": 25670,
+                        "end": 25669,
                         "text": "vector space models",
                         "labels": [
                             "Method"
@@ -1299,7 +1299,7 @@
                 {
                     "value": {
                         "start": 25724,
-                        "end": 25731,
+                        "end": 25730,
                         "text": "WordNet",
                         "labels": [
                             "Dataset"
@@ -1310,7 +1310,7 @@
                 {
                     "value": {
                         "start": 25825,
-                        "end": 25861,
+                        "end": 25860,
                         "text": "template based FAQ retrieval systems",
                         "labels": [
                             "Method"
@@ -1329,7 +1329,7 @@
                 {
                     "value": {
                         "start": 28,
-                        "end": 37,
+                        "end": 36,
                         "text": "Wikipedia",
                         "labels": [
                             "Dataset"
@@ -1340,7 +1340,7 @@
                 {
                     "value": {
                         "start": 546,
-                        "end": 576,
+                        "end": 575,
                         "text": "document concept lattice model",
                         "labels": [
                             "Method"
@@ -1351,7 +1351,7 @@
                 {
                     "value": {
                         "start": 2486,
-                        "end": 2493,
+                        "end": 2492,
                         "text": "WordNet",
                         "labels": [
                             "Dataset"
@@ -1362,7 +1362,7 @@
                 {
                     "value": {
                         "start": 2496,
-                        "end": 2506,
+                        "end": 2505,
                         "text": "Gazetteers",
                         "labels": [
                             "Dataset"
@@ -1373,7 +1373,7 @@
                 {
                     "value": {
                         "start": 2511,
-                        "end": 2518,
+                        "end": 2517,
                         "text": "Googles",
                         "labels": [
                             "Tool"
@@ -1384,7 +1384,7 @@
                 {
                     "value": {
                         "start": 3485,
-                        "end": 3493,
+                        "end": 3492,
                         "text": "WordNets",
                         "labels": [
                             "Dataset"
@@ -1395,7 +1395,7 @@
                 {
                     "value": {
                         "start": 448,
-                        "end": 461,
+                        "end": 460,
                         "text": "wiki concepts",
                         "labels": [
                             "Dataset"
@@ -1406,7 +1406,7 @@
                 {
                     "value": {
                         "start": 6129,
-                        "end": 6134,
+                        "end": 6133,
                         "text": "ROUGE",
                         "labels": [
                             "Metric"
@@ -1417,7 +1417,7 @@
                 {
                     "value": {
                         "start": 6197,
-                        "end": 6200,
+                        "end": 6199,
                         "text": "DUC",
                         "labels": [
                             "Dataset"
@@ -1428,7 +1428,7 @@
                 {
                     "value": {
                         "start": 6263,
-                        "end": 6285,
+                        "end": 6284,
                         "text": "WordNet-based approach",
                         "labels": [
                             "Method"
@@ -1439,7 +1439,7 @@
                 {
                     "value": {
                         "start": 857,
-                        "end": 864,
+                        "end": 863,
                         "text": "TREC-QA",
                         "labels": [
                             "Dataset"
@@ -1450,7 +1450,7 @@
                 {
                     "value": {
                         "start": 11056,
-                        "end": 11063,
+                        "end": 11062,
                         "text": "Pyramid",
                         "labels": [
                             "Method"
@@ -1461,7 +1461,7 @@
                 {
                     "value": {
                         "start": 14067,
-                        "end": 14072,
+                        "end": 14071,
                         "text": "TFIDF",
                         "labels": [
                             "Method"
@@ -1472,7 +1472,7 @@
                 {
                     "value": {
                         "start": 14222,
-                        "end": 14227,
+                        "end": 14226,
                         "text": "CFIDF",
                         "labels": [
                             "Method"
@@ -1483,7 +1483,7 @@
                 {
                     "value": {
                         "start": 14776,
-                        "end": 14784,
+                        "end": 14783,
                         "text": "DUC 2005",
                         "labels": [
                             "Dataset"
@@ -1494,7 +1494,7 @@
                 {
                     "value": {
                         "start": 20302,
-                        "end": 20334,
+                        "end": 20333,
                         "text": "iterative reinforcement approach",
                         "labels": [
                             "Method"
@@ -1505,7 +1505,7 @@
                 {
                     "value": {
                         "start": 14658,
-                        "end": 14661,
+                        "end": 14660,
                         "text": "DCL",
                         "labels": [
                             "Method"
@@ -1516,7 +1516,7 @@
                 {
                     "value": {
                         "start": 21209,
-                        "end": 21251,
+                        "end": 21250,
                         "text": "extended document concept lattice ( EDCL )",
                         "labels": [
                             "Method"
@@ -1527,7 +1527,7 @@
                 {
                     "value": {
                         "start": 17874,
-                        "end": 17878,
+                        "end": 17877,
                         "text": "EDCL",
                         "labels": [
                             "Method"
@@ -1538,7 +1538,7 @@
                 {
                     "value": {
                         "start": 22582,
-                        "end": 22593,
+                        "end": 22592,
                         "text": "TRECQA task",
                         "labels": [
                             "Dataset"
@@ -1549,7 +1549,7 @@
                 {
                     "value": {
                         "start": 19405,
-                        "end": 19411,
+                        "end": 19410,
                         "text": "TRECQA",
                         "labels": [
                             "Dataset"
@@ -1560,7 +1560,7 @@
                 {
                     "value": {
                         "start": 820,
-                        "end": 833,
+                        "end": 832,
                         "text": "wiki articles",
                         "labels": [
                             "Dataset"
@@ -1571,7 +1571,7 @@
                 {
                     "value": {
                         "start": 22746,
-                        "end": 22758,
+                        "end": 22757,
                         "text": "TREC 12 - 14",
                         "labels": [
                             "Dataset"
@@ -1582,7 +1582,7 @@
                 {
                     "value": {
                         "start": 23664,
-                        "end": 23678,
+                        "end": 23677,
                         "text": "TREC-QA corpus",
                         "labels": [
                             "Dataset"
@@ -1593,7 +1593,7 @@
                 {
                     "value": {
                         "start": 23794,
-                        "end": 23806,
+                        "end": 23805,
                         "text": "wiki nuggets",
                         "labels": [
                             "Dataset"
@@ -1604,7 +1604,7 @@
                 {
                     "value": {
                         "start": 24690,
-                        "end": 24710,
+                        "end": 24709,
                         "text": "TREC-Iiki collection",
                         "labels": [
                             "Dataset"
@@ -1615,7 +1615,7 @@
                 {
                     "value": {
                         "start": 25440,
-                        "end": 25455,
+                        "end": 25454,
                         "text": "TREC-QA 12 - 14",
                         "labels": [
                             "Dataset"
@@ -1626,7 +1626,7 @@
                 {
                     "value": {
                         "start": 25495,
-                        "end": 25509,
+                        "end": 25508,
                         "text": "AQUAINT corpus",
                         "labels": [
                             "Dataset"
@@ -1637,7 +1637,7 @@
                 {
                     "value": {
                         "start": 25565,
-                        "end": 25582,
+                        "end": 25581,
                         "text": "TREC-QA questions",
                         "labels": [
                             "Dataset"
@@ -1648,7 +1648,7 @@
                 {
                     "value": {
                         "start": 23748,
-                        "end": 23760,
+                        "end": 23759,
                         "text": "TREC nuggets",
                         "labels": [
                             "Dataset"
@@ -1659,7 +1659,7 @@
                 {
                     "value": {
                         "start": 25495,
-                        "end": 25502,
+                        "end": 25501,
                         "text": "AQUAINT",
                         "labels": [
                             "Dataset"
@@ -1670,7 +1670,7 @@
                 {
                     "value": {
                         "start": 26869,
-                        "end": 26903,
+                        "end": 26902,
                         "text": "MMR ( maximal marginal relevance )",
                         "labels": [
                             "Method"
@@ -1681,7 +1681,7 @@
                 {
                     "value": {
                         "start": 188,
-                        "end": 192,
+                        "end": 191,
                         "text": "wiki",
                         "labels": [
                             "Dataset"
@@ -1692,7 +1692,7 @@
                 {
                     "value": {
                         "start": 28583,
-                        "end": 28591,
+                        "end": 28590,
                         "text": "accuracy",
                         "labels": [
                             "Metric"
@@ -1703,7 +1703,7 @@
                 {
                     "value": {
                         "start": 28616,
-                        "end": 28635,
+                        "end": 28634,
                         "text": "TRECWiki collection",
                         "labels": [
                             "Dataset"
@@ -1714,7 +1714,7 @@
                 {
                     "value": {
                         "start": 28992,
-                        "end": 29005,
+                        "end": 29004,
                         "text": "recall ( NR )",
                         "labels": [
                             "Metric"
@@ -1725,7 +1725,7 @@
                 {
                     "value": {
                         "start": 29037,
-                        "end": 29053,
+                        "end": 29052,
                         "text": "precision ( NP )",
                         "labels": [
                             "Metric"
@@ -1736,7 +1736,7 @@
                 {
                     "value": {
                         "start": 29109,
-                        "end": 29111,
+                        "end": 29110,
                         "text": "F1",
                         "labels": [
                             "Metric"
@@ -1747,7 +1747,7 @@
                 {
                     "value": {
                         "start": 29116,
-                        "end": 29118,
+                        "end": 29117,
                         "text": "F3",
                         "labels": [
                             "Metric"
@@ -1758,7 +1758,7 @@
                 {
                     "value": {
                         "start": 29490,
-                        "end": 29498,
+                        "end": 29497,
                         "text": "F-scores",
                         "labels": [
                             "Metric"
@@ -1769,7 +1769,7 @@
                 {
                     "value": {
                         "start": 29585,
-                        "end": 29596,
+                        "end": 29595,
                         "text": "Cuis system",
                         "labels": [
                             "Method"
@@ -1780,7 +1780,7 @@
                 {
                     "value": {
                         "start": 29626,
-                        "end": 29646,
+                        "end": 29645,
                         "text": "bigram soft patterns",
                         "labels": [
                             "Method"
@@ -1791,7 +1791,7 @@
                 {
                     "value": {
                         "start": 29692,
-                        "end": 29701,
+                        "end": 29700,
                         "text": "TREC - 12",
                         "labels": [
                             "Dataset"
@@ -1802,7 +1802,7 @@
                 {
                     "value": {
                         "start": 29716,
-                        "end": 29723,
+                        "end": 29722,
                         "text": "TREC 13",
                         "labels": [
                             "Dataset"
@@ -1813,7 +1813,7 @@
                 {
                     "value": {
                         "start": 29037,
-                        "end": 29046,
+                        "end": 29045,
                         "text": "precision",
                         "labels": [
                             "Metric"
@@ -1824,7 +1824,7 @@
                 {
                     "value": {
                         "start": 29982,
-                        "end": 30003,
+                        "end": 30002,
                         "text": "soft-pattern approach",
                         "labels": [
                             "Method"
@@ -1835,7 +1835,7 @@
                 {
                     "value": {
                         "start": 188,
-                        "end": 200,
+                        "end": 199,
                         "text": "wiki article",
                         "labels": [
                             "Dataset"
@@ -1846,7 +1846,7 @@
                 {
                     "value": {
                         "start": 30252,
-                        "end": 30272,
+                        "end": 30271,
                         "text": "TREC-Wiki collection",
                         "labels": [
                             "Dataset"
@@ -1857,7 +1857,7 @@
                 {
                     "value": {
                         "start": 30466,
-                        "end": 30473,
+                        "end": 30472,
                         "text": "recalls",
                         "labels": [
                             "Metric"
@@ -1868,7 +1868,7 @@
                 {
                     "value": {
                         "start": 30478,
-                        "end": 30488,
+                        "end": 30487,
                         "text": "precisions",
                         "labels": [
                             "Metric"
@@ -1879,7 +1879,7 @@
                 {
                     "value": {
                         "start": 28992,
-                        "end": 28998,
+                        "end": 28997,
                         "text": "recall",
                         "labels": [
                             "Metric"
@@ -1898,7 +1898,7 @@
                 {
                     "value": {
                         "start": 472,
-                        "end": 488,
+                        "end": 487,
                         "text": "log linear model",
                         "labels": [
                             "Method"
@@ -1909,7 +1909,7 @@
                 {
                     "value": {
                         "start": 1033,
-                        "end": 1041,
+                        "end": 1040,
                         "text": "accuracy",
                         "labels": [
                             "Metric"
@@ -1920,7 +1920,7 @@
                 {
                     "value": {
                         "start": 2883,
-                        "end": 2898,
+                        "end": 2897,
                         "text": "trie structures",
                         "labels": [
                             "Method"
@@ -1931,7 +1931,7 @@
                 {
                     "value": {
                         "start": 2998,
-                        "end": 3021,
+                        "end": 3020,
                         "text": "Brill and Moores method",
                         "labels": [
                             "Method"
@@ -1942,7 +1942,7 @@
                 {
                     "value": {
                         "start": 3066,
-                        "end": 3091,
+                        "end": 3090,
                         "text": "logistic regression model",
                         "labels": [
                             "Method"
@@ -1953,7 +1953,7 @@
                 {
                     "value": {
                         "start": 3904,
-                        "end": 3939,
+                        "end": 3938,
                         "text": "log-linear ( discriminative ) model",
                         "labels": [
                             "Method"
@@ -1964,7 +1964,7 @@
                 {
                     "value": {
                         "start": 5512,
-                        "end": 5518,
+                        "end": 5517,
                         "text": "n-gram",
                         "labels": [
                             "Method"
@@ -1975,7 +1975,7 @@
                 {
                     "value": {
                         "start": 6064,
-                        "end": 6070,
+                        "end": 6069,
                         "text": "ngrams",
                         "labels": [
                             "Method"
@@ -1986,7 +1986,7 @@
                 {
                     "value": {
                         "start": 7759,
-                        "end": 7781,
+                        "end": 7780,
                         "text": "Brill and Moores model",
                         "labels": [
                             "Method"
@@ -1997,7 +1997,7 @@
                 {
                     "value": {
                         "start": 7890,
-                        "end": 7930,
+                        "end": 7929,
                         "text": "Li-regularized logistic regression model",
                         "labels": [
                             "Method"
@@ -2008,7 +2008,7 @@
                 {
                     "value": {
                         "start": 8510,
-                        "end": 8531,
+                        "end": 8530,
                         "text": "maximum entropy model",
                         "labels": [
                             "Method"
@@ -2019,7 +2019,7 @@
                 {
                     "value": {
                         "start": 14417,
-                        "end": 14432,
+                        "end": 14431,
                         "text": "gradient ascent",
                         "labels": [
                             "Method"
@@ -2030,7 +2030,7 @@
                 {
                     "value": {
                         "start": 14601,
-                        "end": 14607,
+                        "end": 14606,
                         "text": "L-BFGS",
                         "labels": [
                             "Method"
@@ -2041,7 +2041,7 @@
                 {
                     "value": {
                         "start": 15875,
-                        "end": 15904,
+                        "end": 15903,
                         "text": "Aho-Corasick tree ( AC tree )",
                         "labels": [
                             "Method"
@@ -2052,7 +2052,7 @@
                 {
                     "value": {
                         "start": 15895,
-                        "end": 15902,
+                        "end": 15901,
                         "text": "AC tree",
                         "labels": [
                             "Method"
@@ -2063,7 +2063,7 @@
                 {
                     "value": {
                         "start": 16282,
-                        "end": 16320,
+                        "end": 16319,
                         "text": "Aho-Corasick string matching algorithm",
                         "labels": [
                             "Method"
@@ -2074,7 +2074,7 @@
                 {
                     "value": {
                         "start": 16339,
-                        "end": 16361,
+                        "end": 16360,
                         "text": "Aho-Corasick algorithm",
                         "labels": [
                             "Method"
@@ -2085,7 +2085,7 @@
                 {
                     "value": {
                         "start": 22017,
-                        "end": 22032,
+                        "end": 22031,
                         "text": "logistic method",
                         "labels": [
                             "Method"
@@ -2096,7 +2096,7 @@
                 {
                     "value": {
                         "start": 8043,
-                        "end": 8063,
+                        "end": 8062,
                         "text": "discriminative model",
                         "labels": [
                             "Method"
@@ -2107,7 +2107,7 @@
                 {
                     "value": {
                         "start": 2822,
-                        "end": 2838,
+                        "end": 2837,
                         "text": "generative model",
                         "labels": [
                             "Method"
@@ -2118,7 +2118,7 @@
                 {
                     "value": {
                         "start": 3066,
-                        "end": 3074,
+                        "end": 3073,
                         "text": "logistic",
                         "labels": [
                             "Method"
@@ -2129,7 +2129,7 @@
                 {
                     "value": {
                         "start": 23569,
-                        "end": 23579,
+                        "end": 23578,
                         "text": "accuracies",
                         "labels": [
                             "Metric"
@@ -2140,7 +2140,7 @@
                 {
                     "value": {
                         "start": 24674,
-                        "end": 24695,
+                        "end": 24694,
                         "text": "AhoCorasick algorithm",
                         "labels": [
                             "Method"
@@ -2159,7 +2159,7 @@
                 {
                     "value": {
                         "start": 622,
-                        "end": 641,
+                        "end": 640,
                         "text": "vector space models",
                         "labels": [
                             "Method"
@@ -2170,7 +2170,7 @@
                 {
                     "value": {
                         "start": 1063,
-                        "end": 1067,
+                        "end": 1066,
                         "text": "IMDB",
                         "labels": [
                             "Dataset"
@@ -2181,7 +2181,7 @@
                 {
                     "value": {
                         "start": 1072,
-                        "end": 1086,
+                        "end": 1085,
                         "text": "Yelp datasets1",
                         "labels": [
                             "Dataset"
@@ -2192,7 +2192,7 @@
                 {
                     "value": {
                         "start": 2899,
-                        "end": 2935,
+                        "end": 2934,
                         "text": "User Product Neural Network ( UPNN )",
                         "labels": [
                             "Method"
@@ -2203,7 +2203,7 @@
                 {
                     "value": {
                         "start": 2929,
-                        "end": 2933,
+                        "end": 2932,
                         "text": "UPNN",
                         "labels": [
                             "Method"
@@ -2214,7 +2214,7 @@
                 {
                     "value": {
                         "start": 3589,
-                        "end": 3611,
+                        "end": 3610,
                         "text": "Yelp Dataset Challenge",
                         "labels": [
                             "Dataset"
@@ -2225,7 +2225,7 @@
                 {
                     "value": {
                         "start": 3668,
-                        "end": 3693,
+                        "end": 3692,
                         "text": "recursive neural networks",
                         "labels": [
                             "Method"
@@ -2236,7 +2236,7 @@
                 {
                     "value": {
                         "start": 3875,
-                        "end": 3880,
+                        "end": 3879,
                         "text": "JMARS",
                         "labels": [
                             "Tool"
@@ -2247,7 +2247,7 @@
                 {
                     "value": {
                         "start": 4120,
-                        "end": 4128,
+                        "end": 4127,
                         "text": "accuracy",
                         "labels": [
                             "Metric"
@@ -2258,7 +2258,7 @@
                 {
                     "value": {
                         "start": 4771,
-                        "end": 4798,
+                        "end": 4797,
                         "text": "Yelp Dataset Challenge 2013",
                         "labels": [
                             "Dataset"
@@ -2269,7 +2269,7 @@
                 {
                     "value": {
                         "start": 9266,
-                        "end": 9302,
+                        "end": 9301,
                         "text": "convolutional neural network ( CNN )",
                         "labels": [
                             "Method"
@@ -2280,7 +2280,7 @@
                 {
                     "value": {
                         "start": 3668,
-                        "end": 3692,
+                        "end": 3691,
                         "text": "recursive neural network",
                         "labels": [
                             "Method"
@@ -2291,7 +2291,7 @@
                 {
                     "value": {
                         "start": 9297,
-                        "end": 9300,
+                        "end": 9299,
                         "text": "CNN",
                         "labels": [
                             "Method"
@@ -2302,7 +2302,7 @@
                 {
                     "value": {
                         "start": 9687,
-                        "end": 9694,
+                        "end": 9693,
                         "text": "n-grams",
                         "labels": [
                             "Method"
@@ -2313,7 +2313,7 @@
                 {
                     "value": {
                         "start": 9860,
-                        "end": 9868,
+                        "end": 9867,
                         "text": "trigrams",
                         "labels": [
                             "Method"
@@ -2324,7 +2324,7 @@
                 {
                     "value": {
                         "start": 9981,
-                        "end": 9989,
+                        "end": 9988,
                         "text": "unigrams",
                         "labels": [
                             "Method"
@@ -2335,7 +2335,7 @@
                 {
                     "value": {
                         "start": 9992,
-                        "end": 9999,
+                        "end": 9998,
                         "text": "bigrams",
                         "labels": [
                             "Method"
@@ -2346,7 +2346,7 @@
                 {
                     "value": {
                         "start": 11265,
-                        "end": 11289,
+                        "end": 11288,
                         "text": "recurrent neural network",
                         "labels": [
                             "Method"
@@ -2357,7 +2357,7 @@
                 {
                     "value": {
                         "start": 14486,
-                        "end": 14513,
+                        "end": 14512,
                         "text": "stochastic gradient descent",
                         "labels": [
                             "Method"
@@ -2368,7 +2368,7 @@
                 {
                     "value": {
                         "start": 15011,
-                        "end": 15038,
+                        "end": 15037,
                         "text": "Stanford Sentiment Treebank",
                         "labels": [
                             "Dataset"
@@ -2379,7 +2379,7 @@
                 {
                     "value": {
                         "start": 15368,
-                        "end": 15391,
+                        "end": 15390,
                         "text": "Yelp Dataset Challenge4",
                         "labels": [
                             "Dataset"
@@ -2390,7 +2390,7 @@
                 {
                     "value": {
                         "start": 15431,
-                        "end": 15443,
+                        "end": 15442,
                         "text": "IMDB dataset",
                         "labels": [
                             "Dataset"
@@ -2401,7 +2401,7 @@
                 {
                     "value": {
                         "start": 15476,
-                        "end": 15485,
+                        "end": 15484,
                         "text": "Yelp 2014",
                         "labels": [
                             "Dataset"
@@ -2412,7 +2412,7 @@
                 {
                     "value": {
                         "start": 15490,
-                        "end": 15508,
+                        "end": 15507,
                         "text": "Yelp 2013 datasets",
                         "labels": [
                             "Dataset"
@@ -2423,7 +2423,7 @@
                 {
                     "value": {
                         "start": 15973,
-                        "end": 15989,
+                        "end": 15988,
                         "text": "Stanford CoreNLP",
                         "labels": [
                             "Tool"
@@ -2434,7 +2434,7 @@
                 {
                     "value": {
                         "start": 16174,
-                        "end": 16177,
+                        "end": 16176,
                         "text": "MAE",
                         "labels": [
                             "Metric"
@@ -2445,7 +2445,7 @@
                 {
                     "value": {
                         "start": 16182,
-                        "end": 16186,
+                        "end": 16185,
                         "text": "RM5E",
                         "labels": [
                             "Metric"
@@ -2456,7 +2456,7 @@
                 {
                     "value": {
                         "start": 16753,
-                        "end": 16768,
+                        "end": 16767,
                         "text": "SVM classifiers",
                         "labels": [
                             "Method"
@@ -2467,7 +2467,7 @@
                 {
                     "value": {
                         "start": 17152,
-                        "end": 17156,
+                        "end": 17155,
                         "text": "SSWE",
                         "labels": [
                             "Method"
@@ -2478,7 +2478,7 @@
                 {
                     "value": {
                         "start": 17371,
-                        "end": 17385,
+                        "end": 17384,
                         "text": "senti accuracy",
                         "labels": [
                             "Metric"
@@ -2489,7 +2489,7 @@
                 {
                     "value": {
                         "start": 17443,
-                        "end": 17447,
+                        "end": 17446,
                         "text": "RMSE",
                         "labels": [
                             "Metric"
@@ -2500,7 +2500,7 @@
                 {
                     "value": {
                         "start": 17488,
-                        "end": 17501,
+                        "end": 17500,
                         "text": "UPNN ( full )",
                         "labels": [
                             "Method"
@@ -2511,7 +2511,7 @@
                 {
                     "value": {
                         "start": 17575,
-                        "end": 17589,
+                        "end": 17588,
                         "text": "UPNN ( no UP )",
                         "labels": [
                             "Method"
@@ -2522,7 +2522,7 @@
                 {
                     "value": {
                         "start": 17649,
-                        "end": 17666,
+                        "end": 17665,
                         "text": "RNTN + R eccurent",
                         "labels": [
                             "Method"
@@ -2533,7 +2533,7 @@
                 {
                     "value": {
                         "start": 9860,
-                        "end": 9867,
+                        "end": 9866,
                         "text": "trigram",
                         "labels": [
                             "Method"
@@ -2544,7 +2544,7 @@
                 {
                     "value": {
                         "start": 21449,
-                        "end": 21491,
+                        "end": 21490,
                         "text": "graphbased semi-supervised learning method",
                         "labels": [
                             "Method"
@@ -2555,7 +2555,7 @@
                 {
                     "value": {
                         "start": 22998,
-                        "end": 23027,
+                        "end": 23026,
                         "text": "stacked denoising autoencoder",
                         "labels": [
                             "Method"
@@ -2566,7 +2566,7 @@
                 {
                     "value": {
                         "start": 23076,
-                        "end": 23114,
+                        "end": 23113,
                         "text": "recursive deep neural networks ( RNN )",
                         "labels": [
                             "Method"
@@ -2577,7 +2577,7 @@
                 {
                     "value": {
                         "start": 23109,
-                        "end": 23112,
+                        "end": 23111,
                         "text": "RNN",
                         "labels": [
                             "Method"
@@ -2588,7 +2588,7 @@
                 {
                     "value": {
                         "start": 23584,
-                        "end": 23613,
+                        "end": 23612,
                         "text": "convolutional neural networks",
                         "labels": [
                             "Method"
@@ -2599,7 +2599,7 @@
                 {
                     "value": {
                         "start": 23650,
-                        "end": 23666,
+                        "end": 23665,
                         "text": "Paragraph Vector",
                         "labels": [
                             "Method"
@@ -2618,7 +2618,7 @@
                 {
                     "value": {
                         "start": 444,
-                        "end": 462,
+                        "end": 461,
                         "text": "factor graph model",
                         "labels": [
                             "Method"
@@ -2629,7 +2629,7 @@
                 {
                     "value": {
                         "start": 14406,
-                        "end": 14418,
+                        "end": 14417,
                         "text": "Hamming loss",
                         "labels": [
                             "Metric"
@@ -2640,7 +2640,7 @@
                 {
                     "value": {
                         "start": 14479,
-                        "end": 14487,
+                        "end": 14486,
                         "text": "accuracy",
                         "labels": [
                             "Metric"
@@ -2651,7 +2651,7 @@
                 {
                     "value": {
                         "start": 14492,
-                        "end": 14501,
+                        "end": 14500,
                         "text": "F-measure",
                         "labels": [
                             "Metric"
@@ -2662,7 +2662,7 @@
                 {
                     "value": {
                         "start": 14716,
-                        "end": 14749,
+                        "end": 14748,
                         "text": "maximum entropy ( ME ) classifier",
                         "labels": [
                             "Method"
@@ -2673,7 +2673,7 @@
                 {
                     "value": {
                         "start": 15044,
-                        "end": 15060,
+                        "end": 15059,
                         "text": "Bayesian network",
                         "labels": [
                             "Method"
@@ -2684,7 +2684,7 @@
                 {
                     "value": {
                         "start": 3702,
-                        "end": 3714,
+                        "end": 3713,
                         "text": "DFG approach",
                         "labels": [
                             "Method"
@@ -2695,7 +2695,7 @@
                 {
                     "value": {
                         "start": 15514,
-                        "end": 15519,
+                        "end": 15518,
                         "text": "Hloss",
                         "labels": [
                             "Metric"
@@ -2706,7 +2706,7 @@
                 {
                     "value": {
                         "start": 15541,
-                        "end": 15549,
+                        "end": 15548,
                         "text": "Accuracy",
                         "labels": [
                             "Metric"
@@ -2717,7 +2717,7 @@
                 {
                     "value": {
                         "start": 15575,
-                        "end": 15577,
+                        "end": 15576,
                         "text": "F1",
                         "labels": [
                             "Metric"
@@ -2728,7 +2728,7 @@
                 {
                     "value": {
                         "start": 5635,
-                        "end": 5670,
+                        "end": 5669,
                         "text": "KNN-based classification algorithms",
                         "labels": [
                             "Method"
@@ -2739,7 +2739,7 @@
                 {
                     "value": {
                         "start": 5911,
-                        "end": 5934,
+                        "end": 5933,
                         "text": "coarse-to-fine strategy",
                         "labels": [
                             "Method"
@@ -2750,7 +2750,7 @@
                 {
                     "value": {
                         "start": 6271,
-                        "end": 6287,
+                        "end": 6286,
                         "text": "Binary Relevance",
                         "labels": [
                             "Method"
@@ -2761,7 +2761,7 @@
                 {
                     "value": {
                         "start": 6562,
-                        "end": 6589,
+                        "end": 6588,
                         "text": "factor graph-based approach",
                         "labels": [
                             "Method"
@@ -2772,7 +2772,7 @@
                 {
                     "value": {
                         "start": 10023,
-                        "end": 10060,
+                        "end": 10059,
                         "text": "dependence factor graph ( DFG ) model",
                         "labels": [
                             "Method"
@@ -2783,7 +2783,7 @@
                 {
                     "value": {
                         "start": 12547,
-                        "end": 12569,
+                        "end": 12568,
                         "text": "gradient decent method",
                         "labels": [
                             "Method"
@@ -2794,7 +2794,7 @@
                 {
                     "value": {
                         "start": 12754,
-                        "end": 12796,
+                        "end": 12795,
                         "text": "Loopy Belief Propagation ( LBP ) algorithm",
                         "labels": [
                             "Method"
@@ -2805,7 +2805,7 @@
                 {
                     "value": {
                         "start": 12738,
-                        "end": 12741,
+                        "end": 12740,
                         "text": "LBP",
                         "labels": [
                             "Method"
@@ -2816,7 +2816,7 @@
                 {
                     "value": {
                         "start": 15733,
-                        "end": 15748,
+                        "end": 15747,
                         "text": "LabelD approach",
                         "labels": [
                             "Method"
@@ -2827,7 +2827,7 @@
                 {
                     "value": {
                         "start": 14828,
-                        "end": 14834,
+                        "end": 14833,
                         "text": "LabelD",
                         "labels": [
                             "Method"
@@ -2838,7 +2838,7 @@
                 {
                     "value": {
                         "start": 17948,
-                        "end": 17965,
+                        "end": 17964,
                         "text": "Transfer approach",
                         "labels": [
                             "Method"
@@ -2857,7 +2857,7 @@
                 {
                     "value": {
                         "start": 25705,
-                        "end": 25724,
+                        "end": 25723,
                         "text": "phrase-based models",
                         "labels": [
                             "Method"
@@ -2868,7 +2868,7 @@
                 {
                     "value": {
                         "start": 457,
-                        "end": 477,
+                        "end": 476,
                         "text": "beam search strategy",
                         "labels": [
                             "Method"
@@ -2879,7 +2879,7 @@
                 {
                     "value": {
                         "start": 483,
-                        "end": 507,
+                        "end": 506,
                         "text": "n-best extraction method",
                         "labels": [
                             "Method"
@@ -2890,7 +2890,7 @@
                 {
                     "value": {
                         "start": 575,
-                        "end": 599,
+                        "end": 598,
                         "text": "hierarchical joint model",
                         "labels": [
                             "Method"
@@ -2901,7 +2901,7 @@
                 {
                     "value": {
                         "start": 697,
-                        "end": 705,
+                        "end": 704,
                         "text": "accuracy",
                         "labels": [
                             "Metric"
@@ -2912,7 +2912,7 @@
                 {
                     "value": {
                         "start": 224,
-                        "end": 243,
+                        "end": 242,
                         "text": "phrase-based system",
                         "labels": [
                             "Method"
@@ -2923,7 +2923,7 @@
                 {
                     "value": {
                         "start": 788,
-                        "end": 823,
+                        "end": 822,
                         "text": "recurrent neural translation system",
                         "labels": [
                             "Method"
@@ -2934,7 +2934,7 @@
                 {
                     "value": {
                         "start": 82,
-                        "end": 94,
+                        "end": 93,
                         "text": "phrase-based",
                         "labels": [
                             "Method"
@@ -2945,7 +2945,7 @@
                 {
                     "value": {
                         "start": 3639,
-                        "end": 3656,
+                        "end": 3655,
                         "text": "neural approaches",
                         "labels": [
                             "Method"
@@ -2956,7 +2956,7 @@
                 {
                     "value": {
                         "start": 4823,
-                        "end": 4831,
+                        "end": 4830,
                         "text": "Accuracy",
                         "labels": [
                             "Metric"
@@ -2967,7 +2967,7 @@
                 {
                     "value": {
                         "start": 4834,
-                        "end": 4837,
+                        "end": 4836,
                         "text": "WPA",
                         "labels": [
                             "Metric"
@@ -2978,7 +2978,7 @@
                 {
                     "value": {
                         "start": 5749,
-                        "end": 5771,
+                        "end": 5770,
                         "text": "Prefix-Bleu ( pxBleu )",
                         "labels": [
                             "Metric"
@@ -2989,7 +2989,7 @@
                 {
                     "value": {
                         "start": 5756,
-                        "end": 5760,
+                        "end": 5759,
                         "text": "Bleu",
                         "labels": [
                             "Metric"
@@ -3000,7 +3000,7 @@
                 {
                     "value": {
                         "start": 5854,
-                        "end": 5860,
+                        "end": 5859,
                         "text": "n-gram",
                         "labels": [
                             "Method"
@@ -3011,7 +3011,7 @@
                 {
                     "value": {
                         "start": 5861,
-                        "end": 5871,
+                        "end": 5870,
                         "text": "precisions",
                         "labels": [
                             "Metric"
@@ -3022,7 +3022,7 @@
                 {
                     "value": {
                         "start": 5894,
-                        "end": 5909,
+                        "end": 5908,
                         "text": "brevity penalty",
                         "labels": [
                             "Metric"
@@ -3033,7 +3033,7 @@
                 {
                     "value": {
                         "start": 6064,
-                        "end": 6068,
+                        "end": 6067,
                         "text": "BLEU",
                         "labels": [
                             "Metric"
@@ -3044,7 +3044,7 @@
                 {
                     "value": {
                         "start": 5763,
-                        "end": 5769,
+                        "end": 5768,
                         "text": "pxBleu",
                         "labels": [
                             "Metric"
@@ -3055,7 +3055,7 @@
                 {
                     "value": {
                         "start": 5861,
-                        "end": 5870,
+                        "end": 5869,
                         "text": "precision",
                         "labels": [
                             "Metric"
@@ -3066,7 +3066,7 @@
                 {
                     "value": {
                         "start": 7118,
-                        "end": 7125,
+                        "end": 7124,
                         "text": "n-grams",
                         "labels": [
                             "Method"
@@ -3077,7 +3077,7 @@
                 {
                     "value": {
                         "start": 8876,
-                        "end": 8895,
+                        "end": 8894,
                         "text": "log-linear approach",
                         "labels": [
                             "Method"
@@ -3088,7 +3088,7 @@
                 {
                     "value": {
                         "start": 9335,
-                        "end": 9356,
+                        "end": 9355,
                         "text": "phrase-based decoding",
                         "labels": [
                             "Method"
@@ -3099,7 +3099,7 @@
                 {
                     "value": {
                         "start": 457,
-                        "end": 468,
+                        "end": 467,
                         "text": "beam search",
                         "labels": [
                             "Method"
@@ -3110,7 +3110,7 @@
                 {
                     "value": {
                         "start": 1428,
-                        "end": 1448,
+                        "end": 1447,
                         "text": "constrained decoding",
                         "labels": [
                             "Method"
@@ -3121,7 +3121,7 @@
                 {
                     "value": {
                         "start": 9843,
-                        "end": 9861,
+                        "end": 9860,
                         "text": "target beam search",
                         "labels": [
                             "Method"
@@ -3132,7 +3132,7 @@
                 {
                     "value": {
                         "start": 11627,
-                        "end": 11638,
+                        "end": 11637,
                         "text": "IBM Model 2",
                         "labels": [
                             "Method"
@@ -3143,7 +3143,7 @@
                 {
                     "value": {
                         "start": 12927,
-                        "end": 12934,
+                        "end": 12933,
                         "text": "AdaGrad",
                         "labels": [
                             "Method"
@@ -3154,7 +3154,7 @@
                 {
                     "value": {
                         "start": 12965,
-                        "end": 12990,
+                        "end": 12989,
                         "text": "online subgradient method",
                         "labels": [
                             "Method"
@@ -3165,7 +3165,7 @@
                 {
                     "value": {
                         "start": 8899,
-                        "end": 8923,
+                        "end": 8922,
                         "text": "phrase-based translation",
                         "labels": [
                             "Method"
@@ -3176,7 +3176,7 @@
                 {
                     "value": {
                         "start": 13427,
-                        "end": 13446,
+                        "end": 13445,
                         "text": "unified joint model",
                         "labels": [
                             "Method"
@@ -3187,7 +3187,7 @@
                 {
                     "value": {
                         "start": 13462,
-                        "end": 13492,
+                        "end": 13491,
                         "text": "hierarchical adaptation method",
                         "labels": [
                             "Method"
@@ -3198,7 +3198,7 @@
                 {
                     "value": {
                         "start": 13541,
-                        "end": 13586,
+                        "end": 13585,
                         "text": "frustratingly easy domain adaptation ( FEDA )",
                         "labels": [
                             "Method"
@@ -3209,7 +3209,7 @@
                 {
                     "value": {
                         "start": 7907,
-                        "end": 7910,
+                        "end": 7909,
                         "text": "KSR",
                         "labels": [
                             "Metric"
@@ -3220,7 +3220,7 @@
                 {
                     "value": {
                         "start": 17268,
-                        "end": 17292,
+                        "end": 17291,
                         "text": "recurrent neural network",
                         "labels": [
                             "Method"
@@ -3231,7 +3231,7 @@
                 {
                     "value": {
                         "start": 10251,
-                        "end": 10258,
+                        "end": 10257,
                         "text": "Phrasal",
                         "labels": [
                             "Tool"
@@ -3242,7 +3242,7 @@
                 {
                     "value": {
                         "start": 18761,
-                        "end": 18766,
+                        "end": 18765,
                         "text": "mgiza",
                         "labels": [
                             "Tool"
@@ -3253,7 +3253,7 @@
                 {
                     "value": {
                         "start": 18805,
-                        "end": 18837,
+                        "end": 18836,
                         "text": "5 - gram language models ( LMs )",
                         "labels": [
                             "Method"
@@ -3264,7 +3264,7 @@
                 {
                     "value": {
                         "start": 18843,
-                        "end": 18848,
+                        "end": 18847,
                         "text": "KenLM",
                         "labels": [
                             "Method"
@@ -3275,7 +3275,7 @@
                 {
                     "value": {
                         "start": 18963,
-                        "end": 18975,
+                        "end": 18974,
                         "text": "Common Crawl",
                         "labels": [
                             "Dataset"
@@ -3286,7 +3286,7 @@
                 {
                     "value": {
                         "start": 18980,
-                        "end": 18996,
+                        "end": 18995,
                         "text": "Europarl corpora",
                         "labels": [
                             "Dataset"
@@ -3297,7 +3297,7 @@
                 {
                     "value": {
                         "start": 19002,
-                        "end": 19010,
+                        "end": 19009,
                         "text": "WMT 2015",
                         "labels": [
                             "Dataset"
@@ -3308,7 +3308,7 @@
                 {
                     "value": {
                         "start": 19223,
-                        "end": 19238,
+                        "end": 19237,
                         "text": "OPUS collection",
                         "labels": [
                             "Dataset"
@@ -3319,7 +3319,7 @@
                 {
                     "value": {
                         "start": 19347,
-                        "end": 19366,
+                        "end": 19365,
                         "text": "Common Crawl corpus",
                         "labels": [
                             "Dataset"
@@ -3330,7 +3330,7 @@
                 {
                     "value": {
                         "start": 19485,
-                        "end": 19514,
+                        "end": 19513,
                         "text": "Autodesk post editing corpus4",
                         "labels": [
                             "Dataset"
@@ -3341,7 +3341,7 @@
                 {
                     "value": {
                         "start": 19565,
-                        "end": 19577,
+                        "end": 19576,
                         "text": "newstest2014",
                         "labels": [
                             "Dataset"
@@ -3352,7 +3352,7 @@
                 {
                     "value": {
                         "start": 19597,
-                        "end": 19609,
+                        "end": 19608,
                         "text": "newstest2015",
                         "labels": [
                             "Dataset"
@@ -3363,7 +3363,7 @@
                 {
                     "value": {
                         "start": 19632,
-                        "end": 19641,
+                        "end": 19640,
                         "text": "WMT 20165",
                         "labels": [
                             "Dataset"
@@ -3374,7 +3374,7 @@
                 {
                     "value": {
                         "start": 19757,
-                        "end": 19770,
+                        "end": 19769,
                         "text": "Autodesk data",
                         "labels": [
                             "Dataset"
@@ -3385,7 +3385,7 @@
                 {
                     "value": {
                         "start": 19778,
-                        "end": 19799,
+                        "end": 19798,
                         "text": "newstest2013 data set",
                         "labels": [
                             "Dataset"
@@ -3396,7 +3396,7 @@
                 {
                     "value": {
                         "start": 20174,
-                        "end": 20194,
+                        "end": 20193,
                         "text": "attention mechanisms",
                         "labels": [
                             "Method"
@@ -3407,7 +3407,7 @@
                 {
                     "value": {
                         "start": 17889,
-                        "end": 17912,
+                        "end": 17911,
                         "text": "constrained beam search",
                         "labels": [
                             "Method"
@@ -3418,7 +3418,7 @@
                 {
                     "value": {
                         "start": 20502,
-                        "end": 20528,
+                        "end": 20527,
                         "text": "phrase-based model ( PBM )",
                         "labels": [
                             "Method"
@@ -3429,7 +3429,7 @@
                 {
                     "value": {
                         "start": 21554,
-                        "end": 21567,
+                        "end": 21566,
                         "text": "prefix tuning",
                         "labels": [
                             "Method"
@@ -3440,7 +3440,7 @@
                 {
                     "value": {
                         "start": 21684,
-                        "end": 21690,
+                        "end": 21689,
                         "text": "recall",
                         "labels": [
                             "Metric"
@@ -3451,7 +3451,7 @@
                 {
                     "value": {
                         "start": 483,
-                        "end": 500,
+                        "end": 499,
                         "text": "n-best extraction",
                         "labels": [
                             "Method"
@@ -3462,7 +3462,7 @@
                 {
                     "value": {
                         "start": 20502,
-                        "end": 20520,
+                        "end": 20519,
                         "text": "phrase-based model",
                         "labels": [
                             "Method"
@@ -3473,7 +3473,7 @@
                 {
                     "value": {
                         "start": 20135,
-                        "end": 20143,
+                        "end": 20142,
                         "text": "ensemble",
                         "labels": [
                             "Method"
@@ -3484,7 +3484,7 @@
                 {
                     "value": {
                         "start": 19525,
-                        "end": 19536,
+                        "end": 19535,
                         "text": "news domain",
                         "labels": [
                             "Dataset"
@@ -3495,7 +3495,7 @@
                 {
                     "value": {
                         "start": 23543,
-                        "end": 23568,
+                        "end": 23567,
                         "text": "single network NMT system",
                         "labels": [
                             "Method"
@@ -3506,7 +3506,7 @@
                 {
                     "value": {
                         "start": 23666,
-                        "end": 23669,
+                        "end": 23668,
                         "text": "CPU",
                         "labels": [
                             "Tool"
@@ -3517,7 +3517,7 @@
                 {
                     "value": {
                         "start": 23693,
-                        "end": 23696,
+                        "end": 23695,
                         "text": "GPU",
                         "labels": [
                             "Tool"
@@ -3528,7 +3528,7 @@
                 {
                     "value": {
                         "start": 16832,
-                        "end": 16835,
+                        "end": 16834,
                         "text": "NMT",
                         "labels": [
                             "Method"
@@ -3539,7 +3539,7 @@
                 {
                     "value": {
                         "start": 23942,
-                        "end": 23963,
+                        "end": 23962,
                         "text": "newstest2015 data set",
                         "labels": [
                             "Dataset"
@@ -3550,7 +3550,7 @@
                 {
                     "value": {
                         "start": 14575,
-                        "end": 14595,
+                        "end": 14594,
                         "text": "phrase-based systems",
                         "labels": [
                             "Method"
@@ -3561,7 +3561,7 @@
                 {
                     "value": {
                         "start": 25730,
-                        "end": 25765,
+                        "end": 25764,
                         "text": "stochastic finite state transducers",
                         "labels": [
                             "Method"
@@ -3572,7 +3572,7 @@
                 {
                     "value": {
                         "start": 27198,
-                        "end": 27221,
+                        "end": 27220,
                         "text": "recurrent neural system",
                         "labels": [
                             "Method"
@@ -3583,7 +3583,7 @@
                 {
                     "value": {
                         "start": 15182,
-                        "end": 15194,
+                        "end": 15193,
                         "text": "n-best lists",
                         "labels": [
                             "Metric"
@@ -3594,7 +3594,7 @@
                 {
                     "value": {
                         "start": 27397,
-                        "end": 27408,
+                        "end": 27407,
                         "text": "prefix-Bleu",
                         "labels": [
                             "Metric"
@@ -3605,7 +3605,7 @@
                 {
                     "value": {
                         "start": 27832,
-                        "end": 27863,
+                        "end": 27862,
                         "text": "phrase-based translation system",
                         "labels": [
                             "Method"
@@ -3624,7 +3624,7 @@
                 {
                     "value": {
                         "start": 424,
-                        "end": 464,
+                        "end": 463,
                         "text": "collaborative filtering-based approaches",
                         "labels": [
                             "Method"
@@ -3635,7 +3635,7 @@
                 {
                     "value": {
                         "start": 2201,
-                        "end": 2238,
+                        "end": 2237,
                         "text": "collaborative filtering-based methods",
                         "labels": [
                             "Method"
@@ -3646,7 +3646,7 @@
                 {
                     "value": {
                         "start": 380,
-                        "end": 412,
+                        "end": 411,
                         "text": "content similarity-based methods",
                         "labels": [
                             "Method"
@@ -3657,7 +3657,7 @@
                 {
                     "value": {
                         "start": 4174,
-                        "end": 4184,
+                        "end": 4183,
                         "text": "Bing News1",
                         "labels": [
                             "Dataset"
@@ -3668,7 +3668,7 @@
                 {
                     "value": {
                         "start": 6261,
-                        "end": 6267,
+                        "end": 6266,
                         "text": "recall",
                         "labels": [
                             "Metric"
@@ -3679,7 +3679,7 @@
                 {
                     "value": {
                         "start": 6934,
-                        "end": 6942,
+                        "end": 6941,
                         "text": "word2vec",
                         "labels": [
                             "Method"
@@ -3690,7 +3690,7 @@
                 {
                     "value": {
                         "start": 7081,
-                        "end": 7096,
+                        "end": 7095,
                         "text": "skip-gram model",
                         "labels": [
                             "Method"
@@ -3701,7 +3701,7 @@
                 {
                     "value": {
                         "start": 7409,
-                        "end": 7440,
+                        "end": 7439,
                         "text": "Word Mover ’ s Distance ( WMD )",
                         "labels": [
                             "Method"
@@ -3712,7 +3712,7 @@
                 {
                     "value": {
                         "start": 8908,
-                        "end": 8917,
+                        "end": 8916,
                         "text": "Wikipedia",
                         "labels": [
                             "Dataset"
@@ -3723,7 +3723,7 @@
                 {
                     "value": {
                         "start": 8922,
-                        "end": 8930,
+                        "end": 8929,
                         "text": "Freebase",
                         "labels": [
                             "Dataset"
@@ -3734,7 +3734,7 @@
                 {
                     "value": {
                         "start": 9075,
-                        "end": 9084,
+                        "end": 9083,
                         "text": "precision",
                         "labels": [
                             "Metric"
@@ -3745,7 +3745,7 @@
                 {
                     "value": {
                         "start": 9315,
-                        "end": 9336,
+                        "end": 9335,
                         "text": "Freebase entity graph",
                         "labels": [
                             "Dataset"
@@ -3756,7 +3756,7 @@
                 {
                     "value": {
                         "start": 9382,
-                        "end": 9432,
+                        "end": 9431,
                         "text": "Large-scale Information Network Embedding ( LINE )",
                         "labels": [
                             "Method"
@@ -3767,7 +3767,7 @@
                 {
                     "value": {
                         "start": 10851,
-                        "end": 10866,
+                        "end": 10865,
                         "text": "TF-IDF Distance",
                         "labels": [
                             "Method"
@@ -3778,7 +3778,7 @@
                 {
                     "value": {
                         "start": 10876,
-                        "end": 10891,
+                        "end": 10890,
                         "text": "TF-IDF distance",
                         "labels": [
                             "Method"
@@ -3789,7 +3789,7 @@
                 {
                     "value": {
                         "start": 12401,
-                        "end": 12413,
+                        "end": 12412,
                         "text": "linear model",
                         "labels": [
                             "Method"
@@ -3800,7 +3800,7 @@
                 {
                     "value": {
                         "start": 4174,
-                        "end": 4183,
+                        "end": 4182,
                         "text": "Bing News",
                         "labels": [
                             "Dataset"
@@ -3811,7 +3811,7 @@
                 {
                     "value": {
                         "start": 13691,
-                        "end": 13715,
+                        "end": 13714,
                         "text": "Stanford CoreNLP toolkit",
                         "labels": [
                             "Tool"
@@ -3822,7 +3822,7 @@
                 {
                     "value": {
                         "start": 13868,
-                        "end": 13879,
+                        "end": 13878,
                         "text": "JERL system",
                         "labels": [
                             "Method"
@@ -3833,7 +3833,7 @@
                 {
                     "value": {
                         "start": 10851,
-                        "end": 10857,
+                        "end": 10856,
                         "text": "TF-IDF",
                         "labels": [
                             "Method"
@@ -3844,7 +3844,7 @@
                 {
                     "value": {
                         "start": 14948,
-                        "end": 14977,
+                        "end": 14976,
                         "text": "linear learning to rank model",
                         "labels": [
                             "Method"
@@ -3855,7 +3855,7 @@
                 {
                     "value": {
                         "start": 15259,
-                        "end": 15273,
+                        "end": 15272,
                         "text": "skipgram model",
                         "labels": [
                             "Method"
@@ -3866,7 +3866,7 @@
                 {
                     "value": {
                         "start": 15304,
-                        "end": 15320,
+                        "end": 15319,
                         "text": "Wikipedia corpus",
                         "labels": [
                             "Dataset"
@@ -3877,7 +3877,7 @@
                 {
                     "value": {
                         "start": 15398,
-                        "end": 15402,
+                        "end": 15401,
                         "text": "PPDB",
                         "labels": [
                             "Dataset"
@@ -3888,7 +3888,7 @@
                 {
                     "value": {
                         "start": 7081,
-                        "end": 7090,
+                        "end": 7089,
                         "text": "skip-gram",
                         "labels": [
                             "Method"
@@ -3899,7 +3899,7 @@
                 {
                     "value": {
                         "start": 15708,
-                        "end": 15716,
+                        "end": 15715,
                         "text": "RankLib3",
                         "labels": [
                             "Tool"
@@ -3910,7 +3910,7 @@
                 {
                     "value": {
                         "start": 15881,
-                        "end": 15894,
+                        "end": 15893,
                         "text": "Precision @ 1",
                         "labels": [
                             "Metric"
@@ -3921,7 +3921,7 @@
                 {
                     "value": {
                         "start": 15897,
-                        "end": 15910,
+                        "end": 15909,
                         "text": "Precision @ 5",
                         "labels": [
                             "Metric"
@@ -3932,7 +3932,7 @@
                 {
                     "value": {
                         "start": 15913,
-                        "end": 15921,
+                        "end": 15920,
                         "text": "NDCG @ 5",
                         "labels": [
                             "Metric"
@@ -3943,7 +3943,7 @@
                 {
                     "value": {
                         "start": 15926,
-                        "end": 15929,
+                        "end": 15928,
                         "text": "MAP",
                         "labels": [
                             "Metric"
@@ -3954,7 +3954,7 @@
                 {
                     "value": {
                         "start": 7435,
-                        "end": 7438,
+                        "end": 7437,
                         "text": "WMD",
                         "labels": [
                             "Method"
@@ -3965,7 +3965,7 @@
                 {
                     "value": {
                         "start": 20068,
-                        "end": 20117,
+                        "end": 20116,
                         "text": "cooccurrence-based representation learning method",
                         "labels": [
                             "Method"
@@ -3976,7 +3976,7 @@
                 {
                     "value": {
                         "start": 21938,
-                        "end": 21959,
+                        "end": 21958,
                         "text": "content-based methods",
                         "labels": [
                             "Method"
@@ -3987,7 +3987,7 @@
                 {
                     "value": {
                         "start": 424,
-                        "end": 447,
+                        "end": 446,
                         "text": "collaborative filtering",
                         "labels": [
                             "Method"
@@ -3998,7 +3998,7 @@
                 {
                     "value": {
                         "start": 22448,
-                        "end": 22472,
+                        "end": 22471,
                         "text": "context-based approaches",
                         "labels": [
                             "Method"
@@ -4009,7 +4009,7 @@
                 {
                     "value": {
                         "start": 22617,
-                        "end": 22645,
+                        "end": 22644,
                         "text": "Restricted Boltzmann Machine",
                         "labels": [
                             "Method"
@@ -4020,7 +4020,7 @@
                 {
                     "value": {
                         "start": 23700,
-                        "end": 23725,
+                        "end": 23724,
                         "text": "Convolutional neural nets",
                         "labels": [
                             "Method"
@@ -4031,7 +4031,7 @@
                 {
                     "value": {
                         "start": 25223,
-                        "end": 25226,
+                        "end": 25225,
                         "text": "CNN",
                         "labels": [
                             "Method"
@@ -4050,7 +4050,7 @@
                 {
                     "value": {
                         "start": 7558,
-                        "end": 7607,
+                        "end": 7606,
                         "text": "sequence-to-sequence neural network architectures",
                         "labels": [
                             "Method"
@@ -4061,7 +4061,7 @@
                 {
                     "value": {
                         "start": 11404,
-                        "end": 11444,
+                        "end": 11443,
                         "text": "leave-one-out cross validation ( LOOCV )",
                         "labels": [
                             "Method"
@@ -4072,7 +4072,7 @@
                 {
                     "value": {
                         "start": 11489,
-                        "end": 11519,
+                        "end": 11518,
                         "text": "rooted mean squared error RMSE",
                         "labels": [
                             "Metric"
@@ -4083,7 +4083,7 @@
                 {
                     "value": {
                         "start": 11530,
-                        "end": 11558,
+                        "end": 11557,
                         "text": "quadratic weighted kappa qwκ",
                         "labels": [
                             "Metric"
@@ -4094,7 +4094,7 @@
                 {
                     "value": {
                         "start": 11054,
-                        "end": 11057,
+                        "end": 11056,
                         "text": "SVM",
                         "labels": [
                             "Method"
@@ -4105,7 +4105,7 @@
                 {
                     "value": {
                         "start": 12024,
-                        "end": 12030,
+                        "end": 12029,
                         "text": "Ubuntu",
                         "labels": [
                             "Tool"
@@ -4116,7 +4116,7 @@
                 {
                     "value": {
                         "start": 12530,
-                        "end": 12561,
+                        "end": 12560,
                         "text": "multi-layer perceptrons ( MLP )",
                         "labels": [
                             "Method"
@@ -4127,7 +4127,7 @@
                 {
                     "value": {
                         "start": 12566,
-                        "end": 12627,
+                        "end": 12626,
                         "text": "bi-directional long shortterm memory ( BiLSTM ) architectures",
                         "labels": [
                             "Method"
@@ -4138,7 +4138,7 @@
                 {
                     "value": {
                         "start": 12556,
-                        "end": 12559,
+                        "end": 12558,
                         "text": "MLP",
                         "labels": [
                             "Method"
@@ -4149,7 +4149,7 @@
                 {
                     "value": {
                         "start": 12605,
-                        "end": 12611,
+                        "end": 12610,
                         "text": "BiLSTM",
                         "labels": [
                             "Method"
@@ -4160,7 +4160,7 @@
                 {
                     "value": {
                         "start": 11515,
-                        "end": 11519,
+                        "end": 11518,
                         "text": "RMSE",
                         "labels": [
                             "Metric"
@@ -4171,7 +4171,7 @@
                 {
                     "value": {
                         "start": 13638,
-                        "end": 13652,
+                        "end": 13651,
                         "text": "C-test dataset",
                         "labels": [
                             "Dataset"
@@ -4182,7 +4182,7 @@
                 {
                     "value": {
                         "start": 141,
-                        "end": 148,
+                        "end": 147,
                         "text": "C-tests",
                         "labels": [
                             "Dataset"
@@ -4193,7 +4193,7 @@
                 {
                     "value": {
                         "start": 1202,
-                        "end": 1208,
+                        "end": 1207,
                         "text": "Ctests",
                         "labels": [
                             "Dataset"
@@ -4204,7 +4204,7 @@
                 {
                     "value": {
                         "start": 14214,
-                        "end": 14223,
+                        "end": 14222,
                         "text": "SVM model",
                         "labels": [
                             "Method"
@@ -4215,7 +4215,7 @@
                 {
                     "value": {
                         "start": 18243,
-                        "end": 18247,
+                        "end": 18246,
                         "text": "SVMs",
                         "labels": [
                             "Method"
@@ -4226,7 +4226,7 @@
                 {
                     "value": {
                         "start": 18306,
-                        "end": 18318,
+                        "end": 18317,
                         "text": "Brown corpus",
                         "labels": [
                             "Dataset"
@@ -4237,7 +4237,7 @@
                 {
                     "value": {
                         "start": 18919,
-                        "end": 18932,
+                        "end": 18931,
                         "text": "Pearson ’ s ρ",
                         "labels": [
                             "Metric"
@@ -4248,7 +4248,7 @@
                 {
                     "value": {
                         "start": 141,
-                        "end": 147,
+                        "end": 146,
                         "text": "C-test",
                         "labels": [
                             "Method"
@@ -4259,7 +4259,7 @@
                 {
                     "value": {
                         "start": 20352,
-                        "end": 20361,
+                        "end": 20360,
                         "text": "Gutenberg",
                         "labels": [
                             "Dataset"
@@ -4270,7 +4270,7 @@
                 {
                     "value": {
                         "start": 20382,
-                        "end": 20389,
+                        "end": 20388,
                         "text": "Reuters",
                         "labels": [
                             "Dataset"
@@ -4281,7 +4281,7 @@
                 {
                     "value": {
                         "start": 18306,
-                        "end": 18311,
+                        "end": 18310,
                         "text": "Brown",
                         "labels": [
                             "Dataset"
@@ -4292,7 +4292,7 @@
                 {
                     "value": {
                         "start": 21881,
-                        "end": 21898,
+                        "end": 21897,
                         "text": "Gutenberg corpora",
                         "labels": [
                             "Dataset"
@@ -4303,7 +4303,7 @@
                 {
                     "value": {
                         "start": 15811,
-                        "end": 15814,
+                        "end": 15813,
                         "text": "SEL",
                         "labels": [
                             "Method"
@@ -4314,7 +4314,7 @@
                 {
                     "value": {
                         "start": 16985,
-                        "end": 16989,
+                        "end": 16988,
                         "text": "SIZE",
                         "labels": [
                             "Method"
@@ -4325,7 +4325,7 @@
                 {
                     "value": {
                         "start": 26757,
-                        "end": 26779,
+                        "end": 26778,
                         "text": "Bonferroni-corrected α",
                         "labels": [
                             "Metric"
@@ -4336,7 +4336,7 @@
                 {
                     "value": {
                         "start": 26832,
-                        "end": 26839,
+                        "end": 26838,
                         "text": "t-tests",
                         "labels": [
                             "Method"
@@ -4347,7 +4347,7 @@
                 {
                     "value": {
                         "start": 26886,
-                        "end": 26906,
+                        "end": 26905,
                         "text": "Mann–Whitney U tests",
                         "labels": [
                             "Method"
@@ -4358,7 +4358,7 @@
                 {
                     "value": {
                         "start": 28688,
-                        "end": 28707,
+                        "end": 28706,
                         "text": "Mann-Whitney-U test",
                         "labels": [
                             "Method"

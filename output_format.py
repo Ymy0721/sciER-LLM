@@ -16,7 +16,7 @@ def find_entities_and_relations(output):
     relations = output.get("Relations", {})
     return entities, relations
 
-def create_result_entry(text_id, entities, relations, text):
+def create_result_entry(text_id, entities, relations, text, dataset_name):
     # 创建结果条目
     result = []
     entity_map = {}
@@ -26,7 +26,7 @@ def create_result_entry(text_id, entities, relations, text):
         if start == -1:
             print(f"Entity '{entity_text}' not found in text with id: {text_id}")
             continue
-        end = start + len(entity_text)
+        end = start + len(entity_text) - 1 if dataset_name == 'njust' else start + len(entity_text)  # 修改 end 为索引减一
         entity_id = f"{text_id}:E{idx}"
         entity_map[entity_text] = entity_id
         result.append({
@@ -91,7 +91,7 @@ def process_dataset(dataset_name):
             if jsonl_text.strip()[-20:] == json_text.strip()[-20:]:
                 try:
                     entities, relations = find_entities_and_relations(json.loads(jsonl_entry['target']))
-                    result_entry = create_result_entry(json_id, entities, relations, json_text)
+                    result_entry = create_result_entry(json_id, entities, relations, json_text, dataset_name)
                     result_data.append(result_entry)
                     matched = True
                     break
