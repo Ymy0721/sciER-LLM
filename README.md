@@ -38,14 +38,120 @@ sciER-LLM/
 ```bash
 python stat_analysis.py
 ```
+#### 1.1 istic数据集
+##### 1.1.1 训练数据长度分布
+![img_1.png](img/img_1.png)
+##### 1.1.2 训练数据标签统计
 
-### 2. 文本切分
+###### 1.1.2.1 实体标签统计
+
+|  实体名称  |         数目         | 
+|:------:|:------------------:| 
+| Evaluation-Metric  |        5073        | 
+| Method  |   12713   |
+|  Task   | 3909 | 
+|  Material   | 1582 | 
+
+
+###### 1.1.2.2 关系标签统计
+|       关系名称        |  数目  | 
+|:-----------------:|:----:| 
+| evaluate-for | 6787 | 
+|      used-for       | 5459 |
+|       Equal        | 1605 | 
+|     part-of      | 5144 | 
+|     compare      | 1848 | 
+|     conjunction      | 331  | 
+|     feature-of      |  4   | 
+
+#### 1.2 las数据集
+##### 1.2.1 训练数据长度分布
+![img_2.png](img/img_2.png)
+
+##### 1.2.2 训练数据标签统计
+
+###### 1.2.2.1 实体标签统计
+|  实体名称  |  数目  | 
+|:------:|:----:| 
+| Reactant  | 3072 | 
+| Solvent  | 234  |
+|  Condition  | 1463 | 
+|  Catalyst   | 439  | 
+| Reaction  | 779  | 
+|Inorganic  | 516  |
+|  Organic  | 647  | 
+| Product  |  34  |
+|  Method  |  15  |
+| Unspecified  |  8   |
+| Created from  |  3   |
+| Institution  |  3   | 
+|Materials |  2   |
+|  non-chemical entity   |  1   |
+|Person  |  1   |
+|  Location  |  1   |
+|  Civilization  |  1   | 
+| Tool  |  1   | 
+
+###### 1.1.2.2 关系标签统计
+|       关系名称        |  数目  | 
+|:-----------------:|:----:| 
+| Used in | 1294 | 
+|      Created by       | 834  |
+|       Along with        | 290  | 
+|     Created from      | 1447 | 
+|     Created in      |  2   | 
+|     Examined by      |  2   | 
+|     Used with      |  1   | 
+
+#### 1.3 njust数据集
+
+##### 1.3.1 训练数据长度分布
+![img_3.png](img/img_3.png)
+
+##### 1.3.2 训练数据标签统计
+###### 1.3.2.1 实体标签统计
+|  实体名称  |  数目  | 
+|:------:|:----:| 
+| Method  | 2087 | 
+|Dataset | 676  |
+|  Metric  | 731  | 
+|  Tool   | 147  | 
+
+
+#### 1.4 whu数据集
+
+##### 1.4.1 训练数据长度分布
+![img_4.png](img/img_4.png)
+
+##### 1.4.2 训练数据标签统计
+
+###### 1.4.2.1 实体标签统计
+|  实体名称  |  数目  | 
+|:------:|:----:|
+| Effect  | 1420 |
+| Operation  | 1249 | 
+
+
+###### 1.4.2.2 关系标签统计
+|       关系名称        |  数目  | 
+|:-----------------:|:----:| 
+| Positive | 1004 | 
+|      Other       | 273  |
+|      Negative       | 112  | 
+
+
+### 2. 数据预处理
+#### 2.1 文本切分
 
 发现 `njust` 数据集的文本过长，需要按照 10 句话进行切分。运行 `njust_split.py` 脚本，在 `data/processed` 文件夹下生成切割后的训练集和测试集。
 
 ```bash
 python njust_split.py
 ```
+
+#### 2.2 标签更新
+
+发现`las`数据集的实体及关系标签存在错误，如`entity`中包含`Person`, `Location`等标签，且出现次数相较于正确标签极低。因此将训练集`entity`与`relation`中出现次数小于10次的标签删除
 
 ### 3. 转换训练数据格式
 
@@ -75,6 +181,23 @@ python train2alpaca.py
 | njust  | Gemma2-9b-it | 3e-5 | 5 | 2048 | all | 0.1 | 32 | 关 |
 | whu    | llama3-8b-instruct | 5e-5 | 3 | 4096 | all | 0.5 | 32 | 关 |
 | las    | llama3-8b-instruct | 5e-5 | 3 | 4096 | all | 0.1 | 32 | 关 |
+
+#### 4.1 微调设置
+![img_7.png](img/img_7.png)
+![img_8.png](img/img_8.png)
+![img_9.png](img/img_9.png)
+![img_10.png](img/img_10.png)
+
+#### 4.2 模型发布
+![img_11.png](img/img_11.png)
+
+#### 4.3 模型推理
+![img_12.png](img/img_12.png)
+![img_13.png](img/img_13.png)
+![img_14.png](img/img_14.png)
+![img_15.png](img/img_15.png)
+![img_16.png](img/img_16.png)
+![img_17.png](img/img_17.png)
 
 ### 5. 转换测试数据格式
 
@@ -129,18 +252,18 @@ python output_format.py
   "result": [
     {
       "value": {
-        "start": 起始字符位置,
-        "end": 结束字符位置,
-        "text": 实体文本1,
+        "start": "起始字符位置",
+        "end": "结束字符位置",
+        "text": "实体文本1",
         "labels": ["实体类型1"]
       },
       "id": "实体1的标识"
     },
     {
       "value": {
-        "start": 起始字符位置,
-        "end": 结束字符位置,
-        "text": 实体文本2,
+        "start": "起始字符位置",
+        "end": "结束字符位置",
+        "text": "实体文本2",
         "labels": ["实体类型2"]
       },
       "id": "实体2的标识"
