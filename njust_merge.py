@@ -47,7 +47,9 @@ def merge_chunks(split_data, output_data):
                 if output_item['target'] and output_item['target'].startswith('{'):
                     try:
                         entities = json.loads(output_item['target'])
-                        merged_target["Entities"].update(entities)
+                        # 添加校验字段，防止审查机制返回错误结果
+                        if "Entities" in entities:
+                            merged_target["Entities"].update(entities["Entities"])
                     except json.JSONDecodeError as e:
                         print(f"Skipping entry due to JSON decode error: {e}")
 
