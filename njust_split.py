@@ -9,7 +9,7 @@ def load_json(file_path):
 def split_text_into_sentences(text):
     # 使用负向前瞻和负向后顾来避免在特定缩写后分割，并确保只有在 .!? 后跟随空格时才分割
     sentences = re.split(r'(?<!\bet al)(?<!\bet al )(?<!\bi\.e)(?<!\bi\.e )(?<!\be\.g)(?<!\be\.g )(?<!\betc)(?<!\betc )(?<!\bviz)(?<!\bviz )(?<=[.!?])\s+(?=[A-Z])', text)
-    ＃ sentences = re.split(r'(?<=[.!?])\s+', text)
+    # sentences = re.split(r'(?<=[.!?])\s+', text)
 
     return sentences
 
